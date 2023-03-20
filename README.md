@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h1>
+<h1 align="center">
   About Me
 </h1>
 
@@ -26,11 +26,8 @@ I am a Full Stack Developer Who loves implementing high quality solutions to com
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
-
-### :hammer_and_wrench: Languages and Tools :
-
-
-<div>
+<h1 align="center"> Tech Stack </h1>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
@@ -44,6 +41,7 @@ I am a Full Stack Developer Who loves implementing high quality solutions to com
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+  
 
 <!--
 **snkennedy21/snkennedy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
