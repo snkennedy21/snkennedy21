@@ -20,7 +20,7 @@ I am a Full Stack Developer Who loves implementing high quality solutions to com
 
 - 💻 Full Stack Developer.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Always Growing
 
 - ☀️ In my free time, I like to exercise, longboard, and spend time connecting with friends.
 
